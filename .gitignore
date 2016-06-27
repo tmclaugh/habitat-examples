@@ -1,0 +1,4 @@
+*.env
+*.hart
+*.log
+*.py[cod]
